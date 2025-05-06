@@ -1,11 +1,12 @@
 [
   {
+    "id": 1,
     "disciplina": "Biologia",
-    "macete": "PEMDAS = Parênteses, Exponenciação, Multiplicação e Divisão, Adição e Subtração"
+    "macete": "DNA: Doce No Açúcar"
   },
   {
+    "id": 2,
     "disciplina": "História",
-    "macete": "CFP = Colonização, Fundação das Cidades, Proclamação"
+    "macete": "CFP: Colonização, Fundação, Proclamação"
   }
-  // ... adicione quantos itens precisar
 ]
