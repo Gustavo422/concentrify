@@ -1,0 +1,13 @@
+[
+  {
+    "disciplina": "Matemática",
+    "formula": "Δ = b² - 4ac",
+    "descricao": "Fórmula do Discriminante"
+  },
+  {
+    "disciplina": "Física",
+    "formula": "F = m·a",
+    "descricao": "Segunda Lei de Newton"
+  }
+  // ... adicione quantos itens precisar
+]
