@@ -1,15 +1,16 @@
 [
   {
     "semana": 1,
-    "disciplina": "Química",
-    "pergunta": "Qual a fórmula da água?",
-    "resposta": "H₂O"
+    "disciplina": "Matemática",
+    "pergunta": "Quanto é 2 + 2?",
+    "opcoes": ["2", "3", "4", "5"],
+    "respostaCorreta": 2
   },
   {
     "semana": 1,
-    "disciplina": "Matemática",
-    "pergunta": "Quanto é 2 + 2?",
-    "resposta": "4"
+    "disciplina": "Química",
+    "pergunta": "Qual a fórmula da água?",
+    "opcoes": ["H2", "H2O", "HO2", "O2H"],
+    "respostaCorreta": 1
   }
-  // ... adicione quantas questões semanais desejar
 ]
