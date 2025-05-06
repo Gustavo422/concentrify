@@ -1,0 +1,11 @@
+[
+  {
+    "disciplina": "Biologia",
+    "macete": "PEMDAS = Parênteses, Exponenciação, Multiplicação e Divisão, Adição e Subtração"
+  },
+  {
+    "disciplina": "História",
+    "macete": "CFP = Colonização, Fundação das Cidades, Proclamação"
+  }
+  // ... adicione quantos itens precisar
+]
